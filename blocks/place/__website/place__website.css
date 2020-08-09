@@ -4,4 +4,9 @@
   text-decoration: underline;
   color: #ffffff;
   font-style: normal;
+  transition: opacity 0.2s linear;
+}
+
+.place__website:hover{
+  opacity: 0.8;
 }
