@@ -5,3 +5,9 @@
   transform: translate(-50%, -50%);
   z-index: 1;
 }
+
+@media screen and (max-width: 1023px){
+  .cover__wrap{
+    width: 560px;
+  }
+}
