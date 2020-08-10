@@ -22,3 +22,12 @@
     margin-bottom: 72px;
   }
 }
+
+@media screen and (max-width: 767px){
+  .place{
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    gap: 32px;
+    margin-bottom: 48px;
+  }
+}

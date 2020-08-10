@@ -27,3 +27,13 @@
     padding-bottom: 88px;
   }
 }
+
+@media screen and (max-width: 767px){
+  .photo-grid{
+    max-width: 288px;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    gap: 12px;
+    padding-bottom: 64px;
+  }
+}
