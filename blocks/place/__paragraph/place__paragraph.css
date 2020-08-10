@@ -4,3 +4,7 @@
   font-size: 18px;
   line-height: 1.61;
 }
+
+.place__paragraph:last-child{
+  margin: 0;
+}

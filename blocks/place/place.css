@@ -5,3 +5,13 @@
   gap: 48px 40px;  
   margin-bottom: 80px;
 }
+
+.place:last-child{
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 1279px){
+  .place{
+    gap: 48px 32px;
+  }
+}
