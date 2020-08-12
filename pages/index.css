@@ -43,12 +43,10 @@
 
 /* ====================cover========================== */
 @import url(../blocks/cover/cover.css);
-@import url(../blocks/cover/__wrap/cover__wrap.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitile/cover__subtitle.css);
 @import url(../blocks/cover/__background/cover__background.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
-@import url(../blocks/cover/__image/cover__image.css);
 
 /* ====================footer========================== */
 @import url(../blocks/footer/footer.css);
